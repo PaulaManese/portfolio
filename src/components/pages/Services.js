@@ -8,7 +8,7 @@ function Services() {
   return (
     <>
       <div className='hero-container'>
-    <video src='/videos/video-2.mp4' autoPlay loop  />
+    <video src='/videos/video-2.mp4?raw=true' autoPlay loop  />
       <h1>PAULA MANESE</h1>
       <p>Full-Stack Developer</p>
       <p>AWS Cloud Practioner</p>
